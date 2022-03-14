@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main()
+{
+    char str[]="GITAM UNIVERSITY";
+    printf("%c",str[4]);
+}
